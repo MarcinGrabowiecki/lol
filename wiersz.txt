@@ -1,0 +1,4 @@
+jesli pogodaLadna==true wtedy jestemWesoly()
+
+funkcja jestemWesoly()
+repeat 10x hiphiphura()
