@@ -2,3 +2,4 @@ jesli pogodaLadna==true wtedy jestemWesoly()
 
 funkcja jestemWesoly()
 repeat 10x hiphiphura()
+i moje serduszko bije bimbam
